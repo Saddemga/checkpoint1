@@ -11,4 +11,4 @@
 
 
 3. **La partition DATA est montée automatiquement au démarrage du système dans un dossier data placé dans /mnt. L'UUID du disque dois être utilisé. :**
- ![alt text](<https://github.com/Saddemga/checkpoint1/blob/main/Captures/Capture%20d'%C3%A9cran%202024-12-13%20095702.png>)
+ ![alt text](<https://github.com/Saddemga/checkpoint1/blob/main/Captures/Capture%20d'%C3%A9cran%202024-12-13%20101612.png>)
